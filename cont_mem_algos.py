@@ -38,8 +38,6 @@ def first_fit(memory, requeriment, index):
                 i+=1
             firstRound = False
 
-
-
 def best_fit():
     return 0
 
